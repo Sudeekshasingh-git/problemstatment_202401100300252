@@ -1,1 +1,1 @@
-# problemstatment_202401100300252
+This project aims to analyze website traffic data to uncover insights about user behavior, improve website performance, and enhance marketing strategies. The analysis leverages Python and data visualization tools to extract actionable insights from web traffic data.
